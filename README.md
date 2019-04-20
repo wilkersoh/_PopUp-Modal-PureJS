@@ -14,5 +14,6 @@ openModalButtons.forEach(button => {
         const modal = document.getElementById('modal');
         openModal(modal);
     })
-})
+}) 
+
 ```
