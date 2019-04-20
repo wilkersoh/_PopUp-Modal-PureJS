@@ -1,4 +1,4 @@
-# popUp modal
+# PopUp modal
 
 #### CSS
 * pointer-events: none || all
